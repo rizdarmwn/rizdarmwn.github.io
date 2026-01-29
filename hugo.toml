@@ -1,3 +1,18 @@
-baseURL = 'https://example.org/'
+baseURL = 'http://rizdarmwn.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "rizdar's notes"
+theme = "shibui"
+
+[params.author]
+  name = "rizdar"
+  email = "rizdarmwn@protonmail.com"
+
+[menu]
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blabbering on rizdar&#39;s notes</title>
+    <link>http://localhost:1313/tags/blabbering/</link>
+    <description>Recent content in Blabbering on rizdar&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>rizdarmwn@protonmail.com (rizdar)</managingEditor>
+    <webMaster>rizdarmwn@protonmail.com (rizdar)</webMaster>
+    <lastBuildDate>Fri, 30 Jan 2026 05:10:57 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/blabbering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Fundamental Is Important</title>
+      <link>http://localhost:1313/posts/the-fundamental-is-important/</link>
+      <pubDate>Fri, 30 Jan 2026 05:10:57 +0700</pubDate><author>rizdarmwn@protonmail.com (rizdar)</author>
+      <guid>http://localhost:1313/posts/the-fundamental-is-important/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
