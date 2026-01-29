@@ -3,6 +3,10 @@ languageCode = 'en-us'
 title = "rizdar's notes"
 theme = "shibui"
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [params.author]
   name = "rizdar"
   email = "rizdarmwn@protonmail.com"
