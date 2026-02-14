@@ -21,7 +21,7 @@ The training focused on learning the martial art. When they were a beginner.
 No strength, no understanding, **nothing.**
 
 Boy was complaining, why they were training this way.
-They were training a martial art that they have no prequisites trained yet.
+They were training a martial art that they have no prerequisites trained yet.
 What happens then?
 
 *Sloppiness. Weakness. Ignorance.*
