@@ -27,9 +27,14 @@ What happens then?
 *Sloppiness. Weakness. Ignorance.*
 
 Why would they learn martial arts without strength?
+
 Why would they build a house without a foundation?
+
 Why would they write without understanding a single word?
+
 Why would they ***code*** without understanding what is happening?
 
+
 Why stop at being mediocre when they can be good?
-Why stop at being good when they can be great?
+
+Why stop at being good when they can be **great**?
