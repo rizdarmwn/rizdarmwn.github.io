@@ -1,0 +1,19 @@
+{{ define "main" }}
+  {{ .Content }}
+
+  <h2>latest posts</h2>
+  <div class="time-list">
+    <ul>
+      {{ range first 5 (where .Site.RegularPages "Section" "posts").ByDate.Reverse }}
+      <li>
+        <span>{{- partial "date" .Date -}}</span>
+        <div><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></div>
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+
+  <div class="terminal-nav">
+    {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+  </div>
+{{ end }}

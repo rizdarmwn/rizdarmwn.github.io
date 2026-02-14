@@ -1,3 +1,3 @@
 ---
-title: "posts"
+title: "all_posts"
 ---
